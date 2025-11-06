@@ -1,0 +1,16 @@
+# Install with: pip install -r requirements.txt
+
+# Data visualization
+matplotlib
+
+# Numerical computing
+numpy
+
+# Machine learning library for TF-IDF vectorization
+scikit-learn
+
+# Scientific computing library
+scipy
+
+# Data manipulation and analysis
+pandas
